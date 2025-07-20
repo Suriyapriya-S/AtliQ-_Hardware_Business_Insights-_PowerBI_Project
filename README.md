@@ -91,7 +91,7 @@ Key Insights:
 
 * FY2021 had the highest absolute forecast error (~$10M).
 
-![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/31a15eda78addfcd8cbf975146ed28054f6fc3ed/Screenshot%202025-06-20%20190522.png)  
+![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/34723cf6e4aded2996cea4d8808cae9abceb887e/Screenshot%202025-06-20%20190505.png)  
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
