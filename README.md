@@ -111,6 +111,77 @@ ________________________________________________________________________________
 
 * Even with some losses, the company managed to capture 6% market share by 2022 because of strategic growth efforts.
 
-  ![Image_Alt]()
+  ![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/f144c7d115049a0fbd30e52fcad6f59bfeae1fde/Screenshot%202025-06-20%20190522.png)
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🛠️ Technical Work & Implementation
 
 
+🔗 **Data Connectivity & Preparation**
+
+ *  Connected a MySQL database to Power BI.
+   
+ * Checked the data for mistakes, cleaned it, and created fact and dimension tables.
+   
+ *  Built a special date table with Fiscal Year and Fiscal Month columns.
+   
+ * Double‑checked data accuracy using cross‑tab checks and UAT (User Acceptance Testing).
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⚙️ **Data Modeling**
+
+ * Created a snowflake schema with one‑to‑many relationships between tables.
+   
+ * Turned off loading of unnecessary tables to make the dashboard faster.
+   
+ * Added YTD (Year-to-Date) and YTG (Year-to-Go) columns to track sales progress.
+   
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📐 **DAX Measures**
+
+Built 25+ custom DAX formulas to calculate:
+
+*KPIs*: Net Sales, Gross Margin, Net Profit, Forecast Accuracy, Net Error, Absolute Error.
+
+*P&L metrics*: Year-over-Year (YoY) changes, Operational Expense, Revenue Contribution %.
+
+*Comparisons*: vs Last Year, vs Target.
+
+*UX features*: Dynamic Titles, Slicer Labels, Toggle Measures, Quarter calculations.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🧰 **Power BI Features & Tools Used**
+
+*DAX Studio*: To improve performance and reduce file size.
+
+*Bookmarks*: For toggling between views, info tabs, and interactive visuals.
+
+*Dynamic Slicers*: For selecting benchmarks, products, or customer segments.
+
+*Power BI Service*: Published the report, set up a gateway, enabled auto‑refresh, created an App workspace, and tested live data with Excel.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📈 **Advanced Visuals Used**
+
+  * Waterfall Chart, Ribbon Chart, Area & Line Charts.
+   
+  * KPI Cards with color indicators.
+   
+  * Matrix with dynamic column names.
+   
+  * Tooltips for detailed metrics.
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎓 **Learnings & Takeaways**
+
+  * Gained hands‑on experience working like a real BI developer—managing stakeholder requests, UAT, and best practices.
+   
+  * Learned how to build strong data models, improve performance, and design clean visuals.
+   
+  * Improved skills in DAX to create advanced calculations and interactive dashboards.
