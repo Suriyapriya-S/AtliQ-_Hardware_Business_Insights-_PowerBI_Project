@@ -10,7 +10,8 @@ ________________________________________________________________________________
 * ✅ **Deliver department-wise insights** through clean, interactive, and intuitive dashboards tailored to the needs of Finance, Sales, Marketing, Supply Chain, and Executive teams.
 * 📊 **Enable data-driven decision-making** by visualizing key performance indicators (KPIs), sales trends, forecasts, regional comparisons, and profit/loss analytics.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-📁 Dashboard Overview & Insights
+📁 ***Dashboard Overview & Insights***
+
 1. 🏠 **Home View**:
 
     * Central navigation page with clear section links to each dashboard view.
@@ -21,13 +22,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 2. 💰 **Finance View**:
  
-  Visuals:
+*Visuals*:
 
   * Cards for Net Sales, GM%, NP% (with conditional formatting) 
   * P&L Matrix (Current/LY/Target) 
   * Top/Bottom Products & Customers; Trend Area Chart.
   
- Insights:
+ *Insights*:
 
 * NS grew by 140–354% between 2019–2022.
 * Despite NS growth, net profit has been negative since 2019, driven by high OpEx (likely linked to aggressive expansion).
@@ -37,7 +38,7 @@ ________________________________________________________________________________
 
 3. 📈 **Sales View**:
  
-  Visuals:
+  *Visuals*:
 
  * Scatter Chart: Net Sales vs. Gross Margin % with dynamic GM% toggling for deeper profitability analysis.
  
@@ -46,7 +47,7 @@ ________________________________________________________________________________
        
  * Matrix: Detailed customer & product-level view of Net Sales and Profitability for drill‑down analysis.
 
- Insights
+ *Insights*
 
  * Product Performance: Notebooks dominated product sales in 2022, contributing 42.5% of total sales.
  * Customer Analysis: Amazon topped customer Net Sales at $496.88M, while Relief showed higher GM%.
@@ -58,7 +59,7 @@ ________________________________________________________________________________
 
 4. 📢 **Marketing View**:
 
- Visuals:
+ *Visuals*:
 
 * Toggle-enabled Scatter Chart: Compare either Gross Margin % (GM%) or Net Profit % (NP%) against Net Sales.
 
@@ -68,7 +69,7 @@ ________________________________________________________________________________
 
 * Matrix: Shows sales performance across different segments and markets.
 
- Insights
+ *Insights*
 
  * In 2022, all regions had negative profitability because Operational Expenses (OpEx) were higher than Gross Margin (GM).
 
@@ -77,7 +78,7 @@ ________________________________________________________________________________
 
 5. 🚚 **Supply Chain View**:
 
-Visuals:
+*Visuals*:
 
 * New card visuals for Forecast Accuracy %, Net Error, ABS Error.
  
@@ -85,7 +86,7 @@ Visuals:
 
 * Line/Column charts for forecast metrics.
  
-Key Insights:
+ *Insights*
 
 * December 2021 had the highest net error with forecast accuracy at 81.5%.
 
@@ -97,7 +98,7 @@ ________________________________________________________________________________
 
 6. 🧑‍💼 **Executive View**:
  
- Visuals:
+ *Visuals*:
 
 * Composite Cards: Show main KPIs with color indicators for growth or decline.
 
@@ -105,7 +106,7 @@ ________________________________________________________________________________
 
 * Matrix: Shows performance by sub‑region and highlights top and bottom products/customers.
 
- Insights
+ *Insights*
 
 * Retailers generated 70.5% of total revenue, and the P&A Division contributed about 49.9%.
 
@@ -115,18 +116,18 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Technical Work & Implementation
+🛠️ ***Technical Work & Implementation***
 
 
 🔗 **Data Connectivity & Preparation**
 
  *  Connected a MySQL database to Power BI.
    
- * Checked the data for mistakes, cleaned it, and created fact and dimension tables.
+ *  Checked the data for mistakes, cleaned it, and created fact and dimension tables.
    
  *  Built a special date table with Fiscal Year and Fiscal Month columns.
    
- * Double‑checked data accuracy using cross‑tab checks and UAT (User Acceptance Testing).
+ *  Double‑checked data accuracy using cross‑tab checks and UAT (User Acceptance Testing).
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
