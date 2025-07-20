@@ -23,7 +23,9 @@ ________________________________________________________________________________
  
   Visuals:
 
-  Cards for Net Sales, GM%, NP% (with conditional formatting); P&L Matrix (Current/LY/Target); Top/Bottom Products & Customers; Trend Area Chart.
+  Cards for Net Sales, GM%, NP% (with conditional formatting) 
+  P&L Matrix (Current/LY/Target) 
+  Top/Bottom Products & Customers; Trend Area Chart.
   
  Insights:
 
