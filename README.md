@@ -95,6 +95,22 @@ Key Insights:
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+6. 🧑‍💼 **Executive View**:
+ 
+ Visuals:
 
+* Composite Cards: Show main KPIs with color indicators for growth or decline.
+
+* Charts (Column, Line, Area, Ribbon, Bar): Show multi‑year trends and comparisons.
+
+* Matrix: Shows performance by sub‑region and highlights top and bottom products/customers.
+
+ Insights
+
+* Retailers generated 70.5% of total revenue, and the P&A Division contributed about 49.9%.
+
+* Even with some losses, the company managed to capture 6% market share by 2022 because of strategic growth efforts.
+
+  ![Image_Alt]()
 
 
