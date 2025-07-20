@@ -16,6 +16,8 @@ ________________________________________________________________________________
     * Central navigation page with clear section links to each dashboard view.
     * Includes Info & Support tabs via bookmarks.
     * Basic dataset and schema descriptions for user context.
+     
+    ![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/9aee3f62eb2f2843e71cb224ee05da867aa8e062/Screenshot%202025-06-20%20190314.png) 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 2. 💰 **Finance View**:
  
