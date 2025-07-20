@@ -72,8 +72,7 @@ ________________________________________________________________________________
 
  * In 2022, all regions had negative profitability because Operational Expenses (OpEx) were higher than Gross Margin (GM).
 
-![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/7f26050106545fa38dfa5c7bd2c7431a452f902b/Screenshot%202025-06-20%20190505.png)
-
+![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/848b68979948272d9e95d4d5a13f2b11cabc4de1/Screenshot%202025-06-20%20190440.png)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 5. 🚚 **Supply Chain View**:
