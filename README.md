@@ -56,5 +56,23 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+4. 📢 Marketing View
+
+ Visuals:
+
+* Toggle-enabled Scatter Chart: Compare either Gross Margin % (GM%) or Net Profit % (NP%) against Net Sales.
+
+* Waterfall Chart: Shows how Gross Margin turns into Net Profit after subtracting Operational Expenses (OpEx).
+
+* Pie Chart: Shows the percentage split between Gross Margin and COGS (Cost of Goods Sold).
+
+* Matrix: Shows sales performance across different segments and markets.
+
+ Insights
+
+ * In 2022, all regions had negative profitability because Operational Expenses (OpEx) were higher than Gross Margin (GM).
+
+![Image_Alt]()
+
 
 
