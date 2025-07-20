@@ -40,8 +40,10 @@ ________________________________________________________________________________
   Visuals:
 
  🔵 Scatter Chart: Net Sales vs. Gross Margin % with dynamic GM% toggling for deeper profitability analysis.
+ 
  🟣 Donut Charts: Percentage breakdowns of key metrics:
        Net Sales, Gross Margin, Pre‑ and Post‑Invoice Deductions, COGS (Cost of Goods Sold)
+       
  🟢 Matrix: Detailed customer & product-level view of Net Sales and Profitability for drill‑down analysis.
 
  Insights
