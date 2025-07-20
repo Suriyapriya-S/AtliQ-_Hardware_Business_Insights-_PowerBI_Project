@@ -29,6 +29,8 @@ ________________________________________________________________________________
 
 * NS grew by 140–354% between 2019–2022.
 * Despite NS growth, net profit has been negative since 2019, driven by high OpEx (likely linked to aggressive expansion).
+  
+![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/2fd0cd09131b89ba18d68f1f236e93a3aa1f5c9a/Screenshot%202025-06-20%20190349.png) 
 
 
 
