@@ -42,7 +42,7 @@ ________________________________________________________________________________
  🔵 Scatter Chart: Net Sales vs. Gross Margin % with dynamic GM% toggling for deeper profitability analysis.
  🟣 Donut Charts: Percentage breakdowns of key metrics:
        Net Sales, Gross Margin, Pre‑ and Post‑Invoice Deductions, COGS (Cost of Goods Sold)
-🟢 Matrix: Detailed customer & product-level view of Net Sales and Profitability for drill‑down analysis.
+ 🟢 Matrix: Detailed customer & product-level view of Net Sales and Profitability for drill‑down analysis.
 
  Insights
 
@@ -50,8 +50,9 @@ ________________________________________________________________________________
  * Customer Analysis: Amazon led customer Net Sales with $496.88M, driving significant revenue.
                       Relief delivered comparatively higher Gross Margin %, indicating stronger profitability despite lower sales.
 
-![Image_Alt]()
+![Image_Alt](https://github.com/Suriyapriya-S/AtliQ-_Hardware_Business_Insights-_PowerBI_Project/blob/cb259a2f31e8a040c6d93421de84f129149c92a5/Screenshot%202025-06-20%20190413.png)
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
